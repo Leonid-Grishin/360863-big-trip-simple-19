@@ -1,7 +1,7 @@
 # Проект «Большое путешествие (простой)»
 
 * Студент: [Леонид Гришин](https://up.htmlacademy.ru/ecmascript/19/user/360863).
-* Наставник: [Сергей Рожков](https://htmlacademy.ru/profile/id1069033).
+* Наставник: [Владимир Якушкин](https://htmlacademy.ru/profile/id126208).
 
 ---
 
